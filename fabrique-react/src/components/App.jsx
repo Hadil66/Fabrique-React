@@ -1,4 +1,4 @@
-import Fetch from './components/Fetch'
+import Fetch from './Fetch'
 
 const App = ( ) => {
     return (
