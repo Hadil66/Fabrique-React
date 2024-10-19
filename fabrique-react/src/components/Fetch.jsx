@@ -1,4 +1,7 @@
 import { useState, useEffect } from 'react';
+import './Fetch.css'
+import Filters from './Filters.jsx'
+
 const Fetch = () => {
     const [artObjects, setArtObjects] = useState([]);
     useEffect(() => {

@@ -1,8 +1,10 @@
-import Fetch from './Fetch'
+import Fetch from './components/Fetch'
+import Navbar from './components/Navbar'
 
 const App = ( ) => {
     return (
         <div>
+            <Navbar />
             <Fetch />
         </div>
     )
