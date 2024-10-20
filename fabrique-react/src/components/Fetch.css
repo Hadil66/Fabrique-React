@@ -63,17 +63,6 @@ h2 {
     margin: 0.5rem 0;
 }
 
-a {
-    color: black;
-    background-color: #efc715;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    text-decoration: none;
-    &:hover {
-        background-color: #00b0f0;
-    }
-}
-
 /* Grotere schermen: 2 kolommen voor medium en 3 voor grote schermen */
 @media (min-width: 600px) {
     .masonry {

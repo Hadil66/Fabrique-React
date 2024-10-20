@@ -1,4 +1,16 @@
 /* Styling voor filter buttons */
+
+a {
+    color: black;
+    background-color: #efc715;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    &:hover {
+        background-color: #00b0f0;
+    }
+}
+
 .filter-option {
     background-color: #464646;
     color: white;

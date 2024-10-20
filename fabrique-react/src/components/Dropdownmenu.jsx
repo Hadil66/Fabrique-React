@@ -23,9 +23,9 @@ function Dropdownmenu() {
               id="Vector"
               d="M5 15H19M5 9H19"
               stroke="#000000"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
             />
           </g>
         </svg>
